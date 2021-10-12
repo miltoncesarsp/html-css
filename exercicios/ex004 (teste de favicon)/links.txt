@@ -1,0 +1,3 @@
+iconarchive
+favicon.cc
+favicon.io
